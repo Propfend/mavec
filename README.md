@@ -4,7 +4,14 @@
 It provides utilities for converting Json-like objects into flattened Vec<String> representations, enabling 
 seamless integration with applications that require efficient data processing, such as CLI tools, APIs, or data pipelines.
 
-# Usage
+# Getting started
+
+```toml
+[dependencies]
+mavec = "0.1.0"
+```
+
+## Usage
 
 ```rust
 use mavec::core::to_vec;
