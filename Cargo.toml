@@ -10,6 +10,5 @@ repository = "https://github.com/Propfend/mavec"
 readme = "README.md"
 
 [dependencies]
-indexmap = "2.7.0"
 serde_json = {version = "1.0.134", features = ["preserve_order"]}
 thiserror = "2.0.9"
