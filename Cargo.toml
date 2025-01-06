@@ -1,0 +1,15 @@
+[package]
+name = "mavec"
+version = "0.1.0"
+edition = "2024"
+authors = ["Propfend"]
+description = "Sample library in rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Propfend/mavec"
+repository = "https://github.com/Propfend/mavec"
+readme = "README.md"
+
+[dependencies]
+indexmap = "2.7.0"
+serde_json = {version = "1.0.134", features = ["preserve_order"]}
+thiserror = "2.0.9"
