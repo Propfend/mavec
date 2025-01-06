@@ -1,0 +1,1 @@
+C:\programação\rust\oss\mavec\target\package\mavec-0.1.0\target\debug\libmavec.rlib: C:\programação\rust\oss\mavec\target\package\mavec-0.1.0\src\core.rs C:\programação\rust\oss\mavec\target\package\mavec-0.1.0\src\error.rs C:\programação\rust\oss\mavec\target\package\mavec-0.1.0\src\lib.rs C:\programação\rust\oss\mavec\target\package\mavec-0.1.0\src\result.rs

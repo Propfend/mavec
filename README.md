@@ -6,6 +6,8 @@ seamless integration with applications that require efficient data processing, s
 
 # Getting started
 
+add `mavec` to your dependencies in `Cargo.toml`:
+
 ```toml
 [dependencies]
 mavec = "0.1.0"
