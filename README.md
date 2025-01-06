@@ -1,5 +1,7 @@
 # Mavec
 
+[![Latest Version](https://img.shields.io/crates/v/mavec.svg?color=purple)](https://crates.io/crates/mavec)
+
 `mavec` is a lightweight Rust library designed for transforming and handling `Value`s data with ease.
 It provides utilities for converting Json-like objects into flattened `Vec<String>` representations, enabling 
 seamless integration with applications that require efficient data processing, such as CLI tools, APIs, or data pipelines.
