@@ -12,7 +12,7 @@ add `mavec` to your dependencies in `Cargo.toml`:
 
 ```toml
 [dependencies]
-mavec = "0.1.0"
+mavec = "0.1.2"
 ```
 
 ## Usage
